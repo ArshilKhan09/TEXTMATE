@@ -7,7 +7,7 @@
 }
 
 body.dark {
-  --bg-color: #121212;
+  --bg-color: #121212 ;
   --card-color: #1e1e1e;
   --text-color: #f0f0f0;
   --highlight: #6e70dd;

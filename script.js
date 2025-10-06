@@ -32,8 +32,8 @@ document.querySelectorAll(".download-icon").forEach(el => {
         link.click();
         document.body.removeChild(link);
 
-        showToast(`✅ "${fileName}" downloaded successfully`);
-        statusSpan.innerHTML = `✅ Downloaded`;
+        showToast(`✅ "${fileName}" Downloading...`);
+        statusSpan.innerHTML = `✅ Task Added`;
 
         
       }, 1500);

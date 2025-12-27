@@ -1,14 +1,14 @@
-📚 TextbookMate – TYBSc CS Textbook Downloader
+# 📚 TextMate – TYBSc CS Textbook Downloader
 
 
 
 
-🚀 Overview
+## 🚀 Overview
 
 TextbookMate is a simple and reliable web app built for TYBSc Computer Science students.
 It allows students to quickly browse, search, and download textbooks organized by semester and subject – all in one place.
 
-✨ Features
+## ✨ Features
 
 📚 Semester & subject-wise textbook collection
 
@@ -18,7 +18,9 @@ It allows students to quickly browse, search, and download textbooks organized b
 
 ⚡ Fast and distraction-free access (no broken links)
 
-🛠️ Tech Stack
+
+
+## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -28,15 +30,12 @@ Storage: Cloud/Local PDF repository
 
 Version Control: Git + GitHub
 
-📸 Screenshots
+## 📸 Screenshots
 
 (Add screenshots of your app here – homepage, subject list, download page, etc.)
 
-🎥 Demo Video
 
-👉 Watch the Demo on YouTube
-
-🔮 Future Scope
+## 🔮 Future Scope
 
 User login & bookmarking textbooks
 
